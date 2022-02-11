@@ -1,24 +1,21 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+O projeto consiste em um sistema  administrativo empresarial onde na qual será organizado um sistema de vendas e comissões de produtos.
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+Há dois tipos de usuários, um gerente (manager) e outro vendendor(salesman). 
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
+No usuário manager você poderá criar produtos, setar preços e comissões de vendas para os seus vendendores (salesman) 
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+No usuário salesman você poderá vender o produto a um determinado client e receber sua comissão porém apenas você como salesman poderá ver a comissão conquistada por você. 
+
+
+
+É um sistema simples porém eficaz para gerenciar vendas e comissões ;D 
+
+
