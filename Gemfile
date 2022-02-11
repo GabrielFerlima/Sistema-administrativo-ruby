@@ -8,7 +8,8 @@ gem "rails", "~> 7.0.1"
 
 gem 'devise'
 gem 'cancancan', '~> 1.15.0'
-
+gem 'carrierwave'
+gem 'rails_admin_rollincode', '~> 1.0'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
